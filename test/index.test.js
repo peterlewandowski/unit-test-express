@@ -15,5 +15,5 @@ describe('Verifies all the endpoints', () => {
 
         //Assert
         expect(actualResult).toBe(expectedResult)
-    })
-})
+    });
+});
